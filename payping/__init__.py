@@ -1,2 +1,2 @@
-import authentication
-import payment
+import payping.authentication
+import payping.payment
