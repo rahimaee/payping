@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+payping/__init__.py
+payping/authentication.py
+payping/payment.py
+payping.egg-info/PKG-INFO
+payping.egg-info/SOURCES.txt
+payping.egg-info/dependency_links.txt
+payping.egg-info/not-zip-safe
+payping.egg-info/requires.txt
+payping.egg-info/top_level.txt
